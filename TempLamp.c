@@ -24,7 +24,7 @@ int greenValue = 0;
 // value to write to the blue LED
 int blueValue = 0;
 
-// model setup
+// update rgb value
 void setup() {
     // init serial
     Serial.begin(9600);
